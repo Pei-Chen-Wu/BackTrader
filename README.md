@@ -1,6 +1,12 @@
 # BackTrader
 Backtesting framework of stocks
 
+## 安裝
+```
+pip install backtrader
+pip install matplotlib
+```
+
 ## 範例
 ```python=
 from datetime import datetime
